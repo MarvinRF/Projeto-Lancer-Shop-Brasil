@@ -66,6 +66,12 @@ display: inline;
     text-decoration: none;
 }
 
+footer{
+    background-color: #000000;
+    color: #fff;
+    text-align: center;
+}
+
 @media (max-width:767px) {
     .carousel-item img{
         height: 280px;
